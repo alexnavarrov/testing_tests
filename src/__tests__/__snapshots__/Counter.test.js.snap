@@ -1,0 +1,21 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Components | Counter renders the component 1`] = `
+<div>
+  <div>
+    <p>
+      Holi
+    </p>
+    <p
+      data-testid="value"
+    >
+      2
+    </p>
+    <button
+      data-testid="button"
+    >
+      Click me!
+    </button>
+  </div>
+</div>
+`;
